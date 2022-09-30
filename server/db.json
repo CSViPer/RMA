@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "surankan",
+      "email": "surankan@gmail.com",
+      "password": "123",
+      "address": "bangalore",
+      "id": 1
+    }
+  ],
+  "restaurant": []
+}
